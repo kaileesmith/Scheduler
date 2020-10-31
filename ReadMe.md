@@ -1,5 +1,5 @@
-## Work Day Scheduler
-For this assignment i was tasked with creating a work day scheudler that tracked the time and allowed user input.
+# Work Day Scheduler
+For this assignment, I was tasked with creating a work day scheudler that tracked the time and allowed user input to be saved.
 
 
 ## Acceptance Criteria
@@ -20,6 +20,7 @@ THEN the saved events persist
 ```
 
 ## Screenshot of Typical Day
-
+![example screenshot]()
 
 ## Link to Deployed Application
+[Click Here!](https://)
