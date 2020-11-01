@@ -1,5 +1,5 @@
 # Work Day Scheduler
-For this assignment, I was tasked with creating a work day scheudler that tracked the time and allowed user input to be saved.
+For this assignment, I was tasked with creating a work day scheduler that tracked the time and allowed user input to be saved.
 
 
 ## Acceptance Criteria
@@ -19,8 +19,8 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
-## Screenshot at end of day with example inputs
+## Screenshot at End of Day with Example Inputs
 ![example screenshot](schedulerPicture.JPG)
 
 ## Link to Deployed Application
-[Click Here!](https://)
+[Click Here!](https://kaileesmith.github.io/Scheduler/)
