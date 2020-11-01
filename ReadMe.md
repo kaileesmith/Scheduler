@@ -19,8 +19,8 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
-## Screenshot of Typical Day
-![example screenshot]()
+## Screenshot at end of day with example inputs
+![example screenshot](schedulerPicture.JPG)
 
 ## Link to Deployed Application
 [Click Here!](https://)
