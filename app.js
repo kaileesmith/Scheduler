@@ -6,7 +6,7 @@ let currentDay = moment().format('MMMM Do YYYY')
 $("#currentDay").text(currentDay)
 $("span").addClass("time-block")
 $("span").attr("style", "width: 75px")
-$("button").text("Save")
+// $("button").text("Save")
 
 let times = [9, 10, 11, 12, 13, 14, 15, 16, 17]
 
