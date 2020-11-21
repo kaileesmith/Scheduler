@@ -22,5 +22,17 @@ THEN the saved events persist
 ## Screenshot at End of Day with Example Inputs
 ![example screenshot](schedulerPicture.JPG)
 
+
+## Technologies Used
+```
+HTML
+CSS
+JAVASCRIPT
+JQUERY
+```
+
 ## Link to Deployed Application
 [Click Here!](https://kaileesmith.github.io/Scheduler/)
+
+
+## MIT LICENSED
