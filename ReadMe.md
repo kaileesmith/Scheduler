@@ -35,4 +35,4 @@ JQUERY
 [Click Here!](https://kaileesmith.github.io/Scheduler/)
 
 
-## MIT LICENSED
+## MIT Licensed
